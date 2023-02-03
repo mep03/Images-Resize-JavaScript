@@ -1,0 +1,1 @@
+# Images Resize JavaScript
